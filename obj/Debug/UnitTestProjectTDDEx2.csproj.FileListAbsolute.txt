@@ -1,0 +1,14 @@
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\UnitTestProjectTDDEx2.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\UnitTestProjectTDDEx2.pdb
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\obj\Debug\UnitTestProjectTDDEx2.csprojAssemblyReference.cache
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\obj\Debug\UnitTestProjectTDDEx2.csproj.CoreCompileInputs.cache
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\obj\Debug\UnitTestProjectTDDEx2.csproj.CopyComplete
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\obj\Debug\UnitTestProjectTDDEx2.dll
+E:\Day-45\UnitTestProjectTDDEx2\UnitTestProjectTDDEx2\obj\Debug\UnitTestProjectTDDEx2.pdb
