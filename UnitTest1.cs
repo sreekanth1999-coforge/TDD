@@ -22,6 +22,7 @@ namespace UnitTestProjectTDDEx2
             int result = num1 * num1 * num1;
             Assert.AreEqual(result, objc.cube(num1));
         }
+        [TestMethod]
         public void TestSquareroot()
         {
             calcLib.Calculation objc = new calcLib.Calculation();

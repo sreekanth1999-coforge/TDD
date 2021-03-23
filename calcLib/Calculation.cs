@@ -19,7 +19,7 @@ namespace calcLib
             {
                 Console.WriteLine("End of the program");
             }
-            return result; 
+            return result;
         }
 
         internal int cube(int num1)
@@ -27,7 +27,7 @@ namespace calcLib
             int result = 0;
             try
             {
-                result = num1 * num1 *num1;
+                result = num1 * num1 * num1;
             }
             catch (Exception ex)
             {
@@ -55,9 +55,6 @@ namespace calcLib
                 Console.WriteLine("End of the program");
             }
             return result;
-        }
-
-        
         }
     }
 }
